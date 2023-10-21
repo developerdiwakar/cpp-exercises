@@ -1,2 +1,1 @@
-# cpp-exercises
-C++ examples and exercises
+Welcome to my C++ exercises
