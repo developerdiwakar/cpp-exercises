@@ -1,6 +1,1 @@
-*
-!*.cpp
-!*.c
-!.gitignore
-!Makefile
-!READEME.md
+.vscode
